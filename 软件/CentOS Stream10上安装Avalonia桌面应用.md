@@ -52,3 +52,5 @@ dotnet --version
 # 3.部署Avalonia桌面应用程序
 
 [[Avalonia发布windows和Linux项目]]
+
+[[EPICS 7.0.8在linux下采用ChannelAccess]]

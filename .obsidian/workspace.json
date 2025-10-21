@@ -6,7 +6,7 @@
       {
         "id": "fe56d0b2c4933168",
         "type": "tabs",
-        "dimension": 69.12751677852349,
+        "dimension": 73.07046979865773,
         "children": [
           {
             "id": "cc2ab9fc31a8130f",
@@ -27,7 +27,7 @@
       {
         "id": "7d26e2d61cc51bf2",
         "type": "tabs",
-        "dimension": 30.87248322147651,
+        "dimension": 26.929530201342285,
         "children": [
           {
             "id": "958754f94e490ae9",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/Git同步.md",
+                "file": "软件/面板界面显示图片问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Git同步 的反向链接列表"
+              "title": "面板界面显示图片问题 的反向链接列表"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/Git同步.md",
+                "file": "软件/面板界面显示图片问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Git同步 的出链列表"
+              "title": "面板界面显示图片问题 的出链列表"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/Git同步.md",
+                "file": "软件/面板界面显示图片问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git同步 的大纲"
+              "title": "面板界面显示图片问题 的大纲"
             }
           }
         ]
@@ -190,8 +190,11 @@
   },
   "active": "cc2ab9fc31a8130f",
   "lastOpenFiles": [
+    "软件/EPICS 7.0.8在linux下采用ChannelAccess.md",
     "软件/Avalonia发布windows和Linux项目.md",
     "软件/CentOS Stream10上安装Avalonia桌面应用.md",
+    "软件/解决方案整体复制其他路径之后项目引用失效.md",
+    "软件/面板界面显示图片问题.md",
     "其他/Git同步.md",
     "未命名.md",
     "其他",
