@@ -10,6 +10,7 @@ config_modelscope.py文件中修改配置
 
 运行main.py代码开启本地大模型服务
 
+[[未联网时加载本地大模型报错]]
 # 大模型文档分析工具
 
 G:\Lenovo\hugggingface\file-summarizer - Tkinter
