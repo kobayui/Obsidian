@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/query-AI-Chat.md",
+                "file": "其他/Git同步.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "query-AI-Chat 的大纲"
+              "title": "Git同步 的大纲"
             }
           }
         ]
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件/query-AI-Chat.md",
+                "file": "其他/Git同步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "query-AI-Chat"
+              "title": "Git同步"
             }
           }
         ]
@@ -60,8 +60,21 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "5337e55063a98480",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,39 +214,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "915fa7e7e8e00e7d",
   "lastOpenFiles": [
-    "学习/Agent1.md",
     "学习/Agent.md",
-    "软件/大模型Tkinter测试.md",
-    "其他/Git同步.md",
-    "软件/未联网时加载本地大模型报错.md",
     "软件/不连网无法打开html文件问题.md",
-    "软件/大模型部署及调用.md",
+    "软件/大模型Tkinter测试.md",
     "软件/动态因果链显示.md",
-    "软件/avalonia webview显示.md",
-    "软件/Avalonia发布windows和Linux项目.md",
+    "软件/解决方案整体复制其他路径之后项目引用失效.md",
+    "软件/面板界面显示图片问题.md",
+    "算法/研究方向.md",
     "软件/Agent开发方案.md",
-    "算法/BP+SVAR.md",
+    "学习/Agent问答.md",
+    "算法/监测Agent demo实现.md",
+    "学习/Agent1.md",
     "学习/神经网络.md",
     "软件/query-AI-Chat.md",
+    "软件/大模型部署及调用.md",
+    "算法/BP+SVAR.md",
+    "算法/因果数字孪生.md",
+    "其他/Git同步.md",
+    "软件/未联网时加载本地大模型报错.md",
+    "软件/avalonia webview显示.md",
+    "软件/Avalonia发布windows和Linux项目.md",
     "未命名 2.base",
     "未命名 1.base",
     "未命名.base",
     "学习/图片/Pasted image 20251030121126.png",
     "学习/图片/Pasted image 20251030121335.png",
-    "软件/面板界面显示图片问题.md",
-    "软件/解决方案整体复制其他路径之后项目引用失效.md",
-    "算法/因果数字孪生.md",
     "学习/图片/Pasted image 20251029150503.png",
     "学习/图片/Pasted image 20251029141536.png",
     "学习/图片/Pasted image 20251029151057.png",
