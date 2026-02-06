@@ -1,6 +1,13 @@
-# 1.安装Influxdb数据库
+sta# 1.安装Influxdb数据库
 
 参考链接:[centos7安装influxdb2-阿里云开发者社区](https://developer.aliyun.com/article/1579245)
+
+在线
+
+~~~
+wget https://mirrors.tuna.tsinghua.edu.cn/influxdata/yum/el7-x86_64/influxdb2-2.7.6-1.x86_64.rp
+~~~
+
 
 对于rpm安装包，使用rpm，默认安装在系统中
 
@@ -54,3 +61,6 @@ dotnet --version
 [[Avalonia发布windows和Linux项目]]
 
 [[EPICS 7.0.8在linux下采用ChannelAccess]]
+
+# 安装基础图形库依赖 (Avalonia 在 Linux 运行通常需要这些)
+sudo dnf install fontconfig libX11

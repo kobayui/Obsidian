@@ -1,5 +1,6 @@
 [[动态因果链显示]]
 
+ //若是在虚拟机中，这个功能可能会因显卡/GPU加速而导致崩溃
 # Avalonia.HtmlRenderer
 
 将python生成的动态因果链显示在avalonia界面当中
